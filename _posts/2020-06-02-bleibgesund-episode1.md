@@ -4,7 +4,7 @@ title:  "Bleib Gesund - Episode 1"
 author: conny
 categories: [ podcast ]
 tags: [ episode, podcast, german, learning, covid19 ]
-image: assets/images/1.jpg
+image: assets/images/photo-1556970180-e38cef5c4706.jpeg
 comments: "disabled"
 ---
 
